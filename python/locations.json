@@ -1,0 +1,44 @@
+[
+    {
+        "room_number": "101",
+        "teacher_name": "Mr. Smith",
+        "type": "classroom",
+        "teacher_id": "T001"
+    },
+    {
+        "room_number": "102",
+        "teacher_name": "Ms. Johnson",
+        "type": "classroom",
+        "teacher_id": "T002"
+    },
+    {
+        "room_number": "201",
+        "teacher_name": "Mr. Brown",
+        "type": "classroom",
+        "teacher_id": "T003"
+    },
+    {
+        "room_number": "301",
+        "teacher_name": "Ms. Davis",
+        "type": "classroom",
+        "teacher_id": "T004"
+    },
+    {
+        "room_number": "B1",
+        "teacher_name": "Restroom 1",
+        "type": "bathroom",
+        "teacher_id": "B001"
+    },
+    {
+        "room_number": "B2",
+        "teacher_name": "Restroom 2",
+        "type": "bathroom",
+        "teacher_id": "B002"
+    },
+    {
+        "room_number": "LIB",
+        "teacher_name": "Library",
+        "type": "library",
+        "teacher_id": "L001"
+    }
+]
